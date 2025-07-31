@@ -63,7 +63,6 @@ Heatmap – Pedestrian Injuries by City & Month
 Map – High-Injury Streets  
 ![Map View](images/high_injury_streets.png)
 
-------------------------------------------------------------
 
 🔍 Key Insights
 
@@ -72,17 +71,13 @@ Map – High-Injury Streets
 - Animal-related accidents are concentrated in specific boroughs.  
 - Heavy vehicle traffic contributes significantly to serious injuries in certain areas.  
 
-------------------------------------------------------------
 
 🏁 Conclusion
 
 The NYPD Motor Vehicle Collisions dataset, analyzed with IBM Cognos, reveals valuable insights for traffic authorities.  
 By identifying patterns, high-risk locations, and seasonal trends, this project helps inform safety campaigns, infrastructure improvements, and policy changes to reduce accidents.
 
-------------------------------------------------------------
+For more details, download the detailed visualisation report above!
 
-📜 Author
+THANKS FOR READING!
 
-Saurabh Kumar Singh  
-BCA – United University  
-IBM Cognos Data Visualization Project  
